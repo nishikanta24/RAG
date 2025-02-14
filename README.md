@@ -40,12 +40,6 @@ This project is a **Retrieval-Augmented Generation (RAG)**-based legal chatbot d
 - **Legal Community Forum** for expert legal discussions.
 - **Automated Legal Form Generation** based on user input.
 
-## Getting Started
-To run the chatbot locally:
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
